@@ -30,6 +30,30 @@ para armazenar os dados de forma síncrona e possui rotas implementadas para os 
 
 ![image](https://github.com/joseweverton/Backend-API-REST-node.js/assets/125286733/fa62a074-3de0-44f1-82d3-a6eacfe5eb3f)
 
+<p>Abaixo telas de exemplo de consulta, cadastro, alteração e exclusão de um instrutor:</p>
+
+<p> - Listar Instrutores cadastrados:</p>
+
+![image](https://github.com/joseweverton/Backend-API-REST-node.js/assets/125286733/e2ca7478-3486-44a2-be85-076bec1999d2)
+
+<p> - Cadastrar novo Instrutor:</p>
+
+![image](https://github.com/joseweverton/Backend-API-REST-node.js/assets/125286733/27776a15-9f1d-4d5d-b559-7e54faaa29ba)
+
+<p> - Alterar Instrutor de ID 1:</p>
+
+![image](https://github.com/joseweverton/Backend-API-REST-node.js/assets/125286733/0675732b-64ee-4b0e-aa0a-5f403e31b467)
+
+<p> - Consultar Instrutor por ID:</p>
+
+![image](https://github.com/joseweverton/Backend-API-REST-node.js/assets/125286733/3b16ed1f-0bb1-4d64-b67f-e87b15359cb2)
+
+<p> - Excluir um Instrutor passando o ID:</p>
+
+![image](https://github.com/joseweverton/Backend-API-REST-node.js/assets/125286733/abf8076b-f14a-4cb3-a268-ca39f233ed13)
+
+<p> - As telas acima são exemplos da manipução dos objetos utilizando a interface INSOMNIA para manipular os dados. O arquivo raiz tem a implementações das aulas vinculadas aos intrutores que funcionam com a mesma lógica. Basta se basear pelas seguir conforme as rotas do arquivo rotas.js para implementa-las no Insominia para testar a aplicação.</p>
+
 <h3>Contribuição</h3>
 
 <p>Se desejar contribuir com este projeto, sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull request.</p>
